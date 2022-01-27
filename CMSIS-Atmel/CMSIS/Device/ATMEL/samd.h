@@ -65,6 +65,43 @@
 #include "samd20/include/samd20.h"
 #elif defined (__SAMD20J18__)
 #include "samd20/include/samd20.h"
+#elif defined (__SAMD20E14B__)
+#include "samd20b/include/samd20.h"
+#elif defined (__SAMD20E15B__)
+#include "samd20b/include/samd20.h"
+#elif defined (__SAMD20E16B__)
+#include "samd20b/include/samd20.h"
+#elif defined (__SAMD20E17B__)
+#include "samd20b/include/samd20.h"
+#elif defined (__SAMD20E18B__)
+#include "samd20b/include/samd20.h"
+#elif defined (__SAMD20E1FB__)
+#include "samd20b/include/samd20.h"
+#elif defined (__SAMD20G14B__)
+#include "samd20b/include/samd20.h"
+#elif defined (__SAMD20G15B__)
+#include "samd20b/include/samd20.h"
+#elif defined (__SAMD20G16B__)
+#include "samd20b/include/samd20.h"
+#elif defined (__SAMD20G17B__)
+#include "samd20b/include/samd20.h"
+#elif defined (__SAMD20G18B__)
+#include "samd20b/include/samd20.h"
+#elif defined (__SAMD20G17UB__)
+#include "samd20b/include/samd20.h"
+#elif defined (__SAMD20G18UB__)
+#include "samd20b/include/samd20.h"
+#elif defined (__SAMD20J14B__)
+#include "samd20b/include/samd20.h"
+#elif defined (__SAMD20J15B__)
+#include "samd20b/include/samd20.h"
+#elif defined (__SAMD20J16B__)
+#include "samd20b/include/samd20.h"
+#elif defined (__SAMD20J17B__)
+#include "samd20b/include/samd20.h"
+#elif defined (__SAMD20J18B__)
+#include "samd20b/include/samd20.h"
+
 #elif defined (__SAMD21E15A__)
 #include "samd21/include/samd21.h"
 #elif defined (__SAMD21E15B__)
